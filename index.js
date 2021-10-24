@@ -11,7 +11,7 @@ app.get('/status', (req, res) => {
     res.status(200).send({
       status: 'success',
       status_code: 200,
-      message: 'Awesome, I was hit',
+      message: 'Awesome, I am available',
     });
 });
 
