@@ -4,7 +4,7 @@ module.exports = {
       script      : "npm start",
       watch       : false,
       merge_logs  : true,
-      cwd         : "/var/www/ddos"
+      cwd         : "/var/www/app-server"
 
      }]
   }
